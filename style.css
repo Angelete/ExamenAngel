@@ -1,0 +1,31 @@
+body{
+    background-color: darksalmon;
+}
+h2.cripto{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+p.bitcoin{
+    text-align: right;
+    color: blue;
+}
+p.etherum{
+    color: blue;
+    background-color: white;
+    text-align: center;
+}
+
+
+
+p.litecoin{
+    text-align: left;
+    color: blue;
+}
+p.desarrollado{
+    background-color: yellow;
+    text-align: center;
+}
+span.nombre{
+    color: red;
+}
